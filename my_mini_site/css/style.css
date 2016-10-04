@@ -37,7 +37,18 @@ img {
 .active {
     background-color:#4CAF50;
 }
-body{
-	background-image: url("../images/chainimage-texture-background-wallpaper-2.jpg");
+
+body {
+    background: aliceblue;
+
 }
+
+div {
+
+        background-image: url("../images/chainimage-texture-background-wallpaper-2.jpg");
+
+}
+
+.bodydiagram {
+    height: 230px;
 }
