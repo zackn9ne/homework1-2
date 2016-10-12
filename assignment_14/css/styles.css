@@ -37,7 +37,6 @@ footer {
 	margin-right: 10px;
 }
 #nav-wrapper {
-	width:465px;
 	margin:0 auto;
 	padding: 20px 0;
 	background:#3D3331;
@@ -80,7 +79,6 @@ li a:hover {
 	display: inline-block;
 	border-radius: 15px;
 	height: 300px;
-	max-width: 50%;
 	margin: 0 auto;
 	padding: 5px;
 }
