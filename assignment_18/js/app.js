@@ -1,4 +1,4 @@
-window.onload = init;
+window.onload = init; // pretty slick where did you learn it, put in comment to this thread
 
 function init() {
   document.getElementById('btn1').onclick = changeHeading2;
